@@ -1,0 +1,28 @@
+{
+  "name": "me-learn-promises",
+  "version": "0.0.0",
+  "description": "Fiddling around with promises to learn more about them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerpeterson/me-learn-promises.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Tyler Peterson <petersontb@familysearch.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerpeterson/me-learn-promises/issues"
+  },
+  "homepage": "https://github.com/tylerpeterson/me-learn-promises",
+  "dependencies": {
+    "q": "~1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  }
+}
